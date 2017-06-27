@@ -1,4 +1,3 @@
-setwd("C:/Users/Ordenador/Desktop/Taller/Codigo")
 ######################## formato ts
 # datos mensuales
 acc <- read.csv('./monthly-traffic-fatalities-in-on.csv', sep = ',')
