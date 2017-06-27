@@ -8,10 +8,10 @@
   Este taller puede ser de utilidad para todo tipo de perfiles (geólogos, biólogos, ecólogos, economistas, médicos, sociólogos…). El tiempo es importante, tengámoslo en cuenta.
 
 ### Requisitios
-⋅⋅* Es necesario traer ordenador.
-⋅⋅* Se trabajará con R y RStudio. Es necesario venir con ello ya instalado, en este taller no se enseñará a instalar R.
-⋅⋅* Conocimientos básicos en programación. Las prácticas serán guiadas.
-⋅⋅* No es necesario ningún conocimiento previo sobre series temporales.
+* Es necesario traer ordenador.
+* Se trabajará con R y RStudio. Es necesario venir con ello ya instalado, en este taller no se enseñará a instalar R.
+* Conocimientos básicos en programación. Las prácticas serán guiadas.
+* No es necesario ningún conocimiento previo sobre series temporales.
 
 ### Detalles
 El taller comenzará con una pequeña introducción teórica al análisis de series temporales univariantes. En ella aprenderemos en qué consisten este tipo de datos y cuáles son las técnicas más utilizadas para su análisis. Después aplicaremos estas técnicas a una serie real a través del lenguaje de programación R. Esto se realizará a través de una práctica guiada.
